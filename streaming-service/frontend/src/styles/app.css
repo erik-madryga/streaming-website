@@ -1,0 +1,116 @@
+
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+
+.carousel-caption{
+    background-color: #f4f8ff;
+    opacity: 60%;
+    border-radius: 50px;
+}
+
+
+.carousel-text{
+    opacity: 500%;
+    color: black;
+}
+
+
+.general-form{
+    margin:auto;
+    width:50%;
+    padding: 25px;
+    border-radius: 5px;
+    border: thin solid lightgrey;
+}
+
+.link-item{
+    color: white;
+    margin: 5px 5px 0px 5px;
+    padding-top: 5px;
+    text-decoration: none;
+}
+
+.link-item:hover {
+    color: grey;
+}
+
+.logo{
+    height:50px;
+    width: 120px;
+    margin-left: 10px;
+}
+.navbar {
+    padding-bottom: 0px;
+    background-color: rgb(65, 67, 197);
+}
+
+.nav-item{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.order-complete{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom:30px;
+}
+
+.order-complete-logo{
+    width: 140px;
+    height: 55px;
+    justify-content: center;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+#checkout-button{
+    color:white;
+    text-decoration: none;
+}
+#my-account-link{
+    text-decoration: none;
+    color: white;
+}
+
+
+#navbar-logout{
+    float: right;
+}
+
+
+#welcome-message{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+
+
+
+/*@media only screen and (max-width: 600px){*/
+/*    .carousel-fade .carousel-item {*/
+/*        width:350px;*/
+/*        margin-left:10%;*/
+/*    }*/
+/*    .carousel-item img {*/
+/*        width:300px;*/
+/*    }*/
+/*}*/
+
+/*@media only screen and (max-width: 600px){*/
+/*    .carousel-fade .carousel-item {*/
+/*        width:350px;*/
+/*        margin-left:10%;*/
+/*    }*/
+/*    .carousel-item img {*/
+/*        width:300px;*/
+/*    }*/
+
+/*    .card-in-cart {*/
+/*        width: 6em*/
+/*    }*/
+/*}*/
+
+
